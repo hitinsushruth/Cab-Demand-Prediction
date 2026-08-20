@@ -1,0 +1,29 @@
+weather_code,condition,description
+0,Clear sky,Cloud development not observed / completely clear
+1,Mainly clear,Mostly sunny / few clouds
+2,Partly cloudy,Scattered clouds
+3,Overcast,Fully cloudy
+45,Fog,Reduced visibility due to fog
+48,Depositing rime fog,Freezing fog creating ice deposits
+51,Drizzle: Light,"Very fine, slight precipitation"
+53,Drizzle: Moderate,Steady fine precipitation
+55,Drizzle: Dense,Thick drizzle with reduced visibility
+56,Freezing Drizzle: Light,Light drizzle freezing on contact
+57,Freezing Drizzle: Dense,Dense drizzle freezing on contact
+61,Rain: Slight,Light continuous or intermittent rain
+63,Rain: Moderate,Moderate continuous rain
+65,Rain: Heavy,Heavy continuous rain
+66,Freezing Rain: Light,Light rain freezing upon impact
+67,Freezing Rain: Heavy,Heavy rain freezing upon impact
+71,Snow fall: Slight,Light snowfall
+73,Snow fall: Moderate,Steady snowfall
+75,Snow fall: Heavy,"Dense, heavy snowfall"
+77,Snow grains,"Very small, white opaque ice particles"
+80,Rain showers: Slight,Passing light rain showers
+81,Rain showers: Moderate,Passing moderate rain showers
+82,Rain showers: Violent,"Intense, heavy convective rain showers"
+85,Snow showers: Slight,Passing light snow showers
+86,Snow showers: Heavy,Passing heavy snow showers
+95,Thunderstorm,Slight or moderate thunderstorm
+96,Thunderstorm with slight hail,Thunderstorm accompanied by light hail
+99,Thunderstorm with heavy hail,Thunderstorm accompanied by severe hail
